@@ -9,8 +9,8 @@
 	"pdp_sembuh": "0",
 	"pdp_dirawat": "1",
 	"positif_jumlah": "2",
-	"positif_dirawat": "1",
 	"positif_sembuh": "1",
+	"positif_dirawat": "1",
 	
   },
   {
@@ -23,8 +23,8 @@
 	"pdp_sembuh": "0",
 	"pdp_dirawat": "1",
 	"positif_jumlah": "2",
-	"positif_dirawat": "1",
 	"positif_sembuh": "1",
+	"positif_dirawat": "1",
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
 	"pdp_sembuh": "0",
 	"pdp_dirawat": "1",
 	"positif_jumlah": "2",
-	"positif_dirawat": "1",
 	"positif_sembuh": "1",
+	"positif_dirawat": "1",
   },
   {
     "id": 4,
@@ -49,8 +49,8 @@
 	"pdp_sembuh": "0",
 	"pdp_dirawat": "1",
 	"positif_jumlah": "2",
-	"positif_dirawat": "1",
 	"positif_sembuh": "1",
+	"positif_dirawat": "1",
   },
   {
     "id": 5,
