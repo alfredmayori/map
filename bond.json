@@ -279,9 +279,9 @@
     "odp_jumlah": "78",
     "odp_selesai": "68",
     "odp_dipantau": "10",
-	"pdp_jumlah": "1",
+	"pdp_jumlah": "2",
 	"pdp_sembuh": "1",
-	"pdp_dirawat": "0",
+	"pdp_dirawat": "1",
 	"positif_jumlah": "0",
 	"positif_sembuh": "0",
 	"positif_dirawat": "0"
